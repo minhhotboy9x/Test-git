@@ -7,5 +7,6 @@ main()
 {
     cout<<"hello";
     cout<<"aloha";
-    cout<<"alleviate";
+    cout<<"qgd";
+    return 0;
 }
