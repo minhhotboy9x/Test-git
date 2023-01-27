@@ -1,8 +1,7 @@
 #include<iostream>
 
 using namespace std;
-int a, b, c;
-int i, j, k;
+int gg=true;
 
 main()
 {
