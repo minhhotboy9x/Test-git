@@ -2,6 +2,7 @@
 
 using namespace std;
 int a, b, c;
+int i, j, k;
 
 main()
 {
